@@ -4,6 +4,11 @@
   margin: 10px;
 }
 
+body {
+  background-color: #00f;
+  color: #fff;
+}
+
 #sampleui {
   max-width: 450px;
   margin-left: 5%;
